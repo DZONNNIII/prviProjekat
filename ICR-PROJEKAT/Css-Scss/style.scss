@@ -1,0 +1,24 @@
+$bojatexta:yellow;
+$velicinafonta:25px;
+$bojatexta1:red;
+$bojatexta2:yellow;
+$bojatexta3:lightgreen;
+ 
+.navbar-dark .navbar-nav .nav-link {
+    color: $bojatexta;
+    font-size: $velicinafonta; 
+  }  
+
+.result-red {
+    background-color:$bojatexta1; 
+  }
+  
+.result-yellow {
+    background-color:$bojatexta2; 
+  }
+
+.result-green {
+    background-color:$bojatexta3; 
+  }
+  
+

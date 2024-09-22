@@ -1,0 +1,17 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: yellow;
+  font-size: 25px;
+}
+
+.result-red {
+  background-color: red;
+}
+
+.result-yellow {
+  background-color: yellow;
+}
+
+.result-green {
+  background-color: lightgreen;
+}
+/*# sourceMappingURL=style.css.map */
